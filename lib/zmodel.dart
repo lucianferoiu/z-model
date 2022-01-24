@@ -1,0 +1,4 @@
+library zmodel;
+
+class ZModel {
+}
